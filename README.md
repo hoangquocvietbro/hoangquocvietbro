@@ -29,13 +29,6 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postgresql.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/elasticsearch.svg" />
 
-
-### Programming languages:
-<img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651584463591.jpg" />
-<img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651583993464.jpg" />
-<img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651584981120.jpg" />
-<br>
-
 ---
 <br>
 
@@ -116,3 +109,10 @@ WebStorm                 1 hr 30 mins        ░░░░░░░░░░░�
 
 
 [Facebook]: https://www.facebook.com/hoangquocvietlc
+
+<br>
+### Programming languages:
+<img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651584463591.jpg" />
+<img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651583993464.jpg" />
+<img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651584981120.jpg" />
+<br>
