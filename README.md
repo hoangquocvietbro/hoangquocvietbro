@@ -28,7 +28,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postgresql.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/elasticsearch.svg" />
-
+<img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651585800316.jpg" />
 ---
 <br>
 
