@@ -113,7 +113,7 @@ WebStorm                 1 hr 30 mins        ░░░░░░░░░░░�
 <br>
 ### Programming languages:
 <br>
-<img align='left' height="290" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651584463591.jpg" />
+<img align='left' margin-top="10" height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651584463591.jpg" />
 <img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651583993464.jpg" />
 <img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651584981120.jpg" />
 <img align='left' height="300" width="300" src="https://storage.googleapis.com/programminghub/certificate%2F1651585800316.jpg" />
